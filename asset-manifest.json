@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/formplus-teri/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/formplus-teri/static/js/main.83fc6681.chunk.js",
+    "main.js.map": "/formplus-teri/static/js/main.83fc6681.chunk.js.map",
+    "runtime-main.js": "/formplus-teri/static/js/runtime-main.9120d7bb.js",
+    "runtime-main.js.map": "/formplus-teri/static/js/runtime-main.9120d7bb.js.map",
+    "static/js/2.f47f09dd.chunk.js": "/formplus-teri/static/js/2.f47f09dd.chunk.js",
+    "static/js/2.f47f09dd.chunk.js.map": "/formplus-teri/static/js/2.f47f09dd.chunk.js.map",
+    "static/js/3.d2e94195.chunk.js": "/formplus-teri/static/js/3.d2e94195.chunk.js",
+    "static/js/3.d2e94195.chunk.js.map": "/formplus-teri/static/js/3.d2e94195.chunk.js.map",
+    "index.html": "/formplus-teri/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/formplus-teri/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f47f09dd.chunk.js.LICENSE.txt": "/formplus-teri/static/js/2.f47f09dd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/formplus-teri/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9120d7bb.js",
+    "static/js/2.f47f09dd.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.83fc6681.chunk.js"
+  ]
+}
