@@ -1,11 +1,9 @@
-import Container from '../../components/Container';
-
 import { Section, Grid, Bg, H1, P } from './HomePage.style';
 export const HomePage = ({ filteredTemplates }) => {
   return (
     <>
       <Section>
-        <Container>
+
           <Grid>
           {filteredTemplates.map((template, id) => (
             <Bg key={id}>
@@ -16,7 +14,6 @@ export const HomePage = ({ filteredTemplates }) => {
             </Bg>
           ))}
           </Grid>
-        </Container>
       </Section>
     </>
   );
