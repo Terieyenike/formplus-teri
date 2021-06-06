@@ -4,8 +4,8 @@
   padding: 0;
 }
 
-:root  {
-  --background: #fff
+:root {
+  --background: #fff;
 }
 
 html {
@@ -14,10 +14,9 @@ html {
 
 body {
   font-family: Inter, sans-serif;
-  font-size: 1.3rem;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: var(--background)
+  background: var(--background);
 }
 
 a {
@@ -27,4 +26,13 @@ a {
 
 ul {
   list-style: none;
+}
+
+.tada {
+  background: #fff4ea;
+  border-radius: 2px;
+  margin-top: 3.0rem;
+  padding: 1em;
+  line-height: 1.375;
+  font-size: 0.875rem;
 }

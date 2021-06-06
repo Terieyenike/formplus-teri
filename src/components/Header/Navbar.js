@@ -1,15 +1,21 @@
 import { Searchbar } from './Searchbar';
-import { Div } from './Navbar.style';
-import Container from '../Container';
+import { Div, DivRight } from './Navbar.style';
+import {Category} from '../Header/Category'
+import {Order} from '../Header/Order'
+import {Date} from '../Header/Date'
 
-export const Navbar = () => {
+export const Navbar = ({handleChange}) => {
   return (
     <>
-      <Container>
         <Div>
-          <Searchbar />
+          <Searchbar search={handleChange} />
+          <DivRight>
+            <p>Sort By:</p>
+            <Category/>
+            <Order />
+            <Date />
+          </DivRight>
         </Div>
-      </Container>
     </>
   );
 };
