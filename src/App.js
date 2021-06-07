@@ -15,7 +15,7 @@ const App = () => {
 
   const fetchTemplates = async () => {
     let url =
-      'https://front-end-task-dot-fpls-dev.uc.r.appspot.com/api/v1/public/task_templates';
+      'https://fierce-meadow-73752.herokuapp.com/https://front-end-task-dot-fpls-dev.uc.r.appspot.com/api/v1/public/task_templates';
       const res = await fetch(url)
       const data = await res.json()
       setTemplates(data)

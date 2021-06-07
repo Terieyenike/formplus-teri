@@ -12,7 +12,7 @@ export const Div = styled.div`
     background-size: 25px 26px;
     appearance: none;
     border: 1px solid #bdbdbd;
-    color: #fdfffc;
+    color: #8F8B8B;
     padding: 1.3em;
     border-radius: 2px;
     font-size: 0.875rem;
